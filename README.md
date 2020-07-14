@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **Edufreitass/Edufreitass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Eduardo Freitas [![linkedin](https://user-images.githubusercontent.com/56324728/87433331-91935a00-c5bf-11ea-8f60-63cc95788ee6.png)](https://www.linkedin.com/in/eduardo-freitas-48b7bb19b/)
+
+Enthusiast of the best development technologies. :coffee:
