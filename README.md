@@ -16,4 +16,9 @@ Here are some ideas to get you started:
 
 # Eduardo Freitas [![linkedin](https://user-images.githubusercontent.com/56324728/87433331-91935a00-c5bf-11ea-8f60-63cc95788ee6.png)](https://www.linkedin.com/in/eduardo-freitas-48b7bb19b/)
 
-Enthusiast of the best development technologies. :coffee:
+:man_technologist: Enthusiast of the best development technologies. :coffee:
+
+- 🔭 I'am currently working as an Integration Developer at Best2bee Technology.
+- 🌱 I'am currently learning Java, Spring Boot, REST APIs, JPA, Hibernate, Maven, Apache Kafka, distributed architecture based on microservices, building data streams or supporting asynchronous integrations, modeling applications using UML(Unified Modeling Language).
+- 👯 I'am looking to collaborate in online events, hackatons, immersions, courses, technology marathons in general, always trying to share my knowledge and help others.
+- 💬 If you have any questions about the technologies mentioned above, please contact me, I will be happy to help you.
