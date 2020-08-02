@@ -29,5 +29,4 @@ Here are some ideas to get you started:
 
 - 🔭 Trabalho como Desenvolvedor de Integração na Best2BEE.
 - 🌱 Atualmente estou estudando Java, Spring Boot, APIs REST, JPA, Hibernate, Maven, Apache Kafka, arquitetura distribuída baseada em microsserviços, construção de streams de dados ou no apoio a integrações assíncronas, modelação de aplicações usando UML (Unified Modeling Language).
-- 👯 Procuro colaborar em eventos online, hackatons, blogs, redes socias, dentre outros lugares, sempre tentando compartilhar meu conhecimento e ajudar outras pessoas.
-- 💬 Se você tiver alguma dúvida sobre as tecnologias mencionadas acima, entre em contato comigo, ficarei feliz em ajudá-lo.
+- 💬 Sempre disposto a compartilhar meu conhecimento e ajudar outras pessoas.
