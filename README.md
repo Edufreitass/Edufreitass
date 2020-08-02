@@ -28,5 +28,7 @@ Here are some ideas to get you started:
 :man_technologist: Entusiasta das melhores tecnologias de desenvolvimento. :coffee:
 
 - 🔭 Trabalho como Desenvolvedor de Integração na Best2BEE.
-- 🌱 Atualmente estou estudando Java, Spring Boot, APIs REST, JPA, Hibernate, Maven, Apache Kafka, arquitetura distribuída baseada em microsserviços, construção de streams de dados ou no apoio a integrações assíncronas, modelação de aplicações usando UML (Unified Modeling Language).
+
+- 🌱 Atualmente estou estudando Java, Spring Boot, APIs REST, JPA, Hibernate, Maven, Apache Kafka, arquitetura distribuída baseada em microsserviços, construção de streams de dados ou no apoio a integrações assíncronas, modelação de aplicações usando UML.
+
 - 💬 Sempre disposto a compartilhar meu conhecimento e ajudar outras pessoas.
