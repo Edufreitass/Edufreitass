@@ -25,10 +25,8 @@ Here are some ideas to get you started:
 
 # Eduardo Freitas [![linkedin](https://user-images.githubusercontent.com/56324728/87433331-91935a00-c5bf-11ea-8f60-63cc95788ee6.png)](https://www.linkedin.com/in/eduardo-freitas-48b7bb19b/)
 
-:man_technologist: Entusiasta das melhores tecnologias de desenvolvimento. :coffee:
+Olá 👋, me chamo **Eduardo Freitas**, sou _Desenvolvedor de Integração_ na **Best2BEE Technology**. :bee:
 
-- 🔭 Trabalho como Desenvolvedor de Integração na Best2BEE.
+💬 Estou **sempre** disposto a **aprender, ouvir e compartilhar** meu conhecimento para ajudar outras pessoas. Trabalho bem em equipe, sou uma pessoa **proativo, autodidata e focado**. A principal **qualidade** que eu mais admiro é a **humildade**, pois **reconhecer** um erro ou dificuldade na minha opinião é gratificante. :clap:
 
-- 🌱 Atualmente estou estudando Java, Spring Boot, APIs REST, JPA, Hibernate, Maven, Apache Kafka, arquitetura distribuída baseada em microsserviços, construção de streams de dados ou no apoio a integrações assíncronas, modelação de aplicações usando UML.
-
-- 💬 Sempre disposto a compartilhar meu conhecimento e ajudar outras pessoas.
+:man_technologist: Atualmente estudo **Java**, Spring Boot, APIs REST, JPA, Hibernate, Maven, Apache Kafka, arquitetura distribuída baseada em microsserviços, construção de streams de dados ou no apoio a integrações assíncronas, modelação de aplicações usando UML, dentre outras tecnologias que acompanham a linguagem **Java**. :coffee:
