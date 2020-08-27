@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 
 Olá 👋, me chamo **Eduardo Freitas**, sou _Desenvolvedor de Integração_ na **Best2BEE Technology**. :bee:
 
-💬 Estou **sempre** disposto a **aprender, ouvir e compartilhar** meu conhecimento para ajudar outras pessoas. Trabalho bem em equipe, sou uma pessoa **proativo, autodidata e focado**. A principal **qualidade** que eu mais admiro é a **humildade**, pois **reconhecer** um erro ou dificuldade na minha opinião é gratificante. :clap:
+💬 Estou **sempre** disposto a **aprender, ouvir e compartilhar** meu conhecimento para ajudar outras pessoas. Trabalho bem em equipe, sou uma pessoa **proativo, autodidata e focado**. A principal **qualidade** que eu mais admiro é a **humildade**.
 
 :man_technologist: Atualmente estudo **Java**, Spring Boot, APIs REST, JPA, Hibernate, Maven, Apache Kafka, arquitetura distribuída baseada em microsserviços, construção de streams de dados ou no apoio a integrações assíncronas, modelação de aplicações usando UML, dentre outras tecnologias que acompanham a linguagem **Java**. :coffee:
