@@ -7,7 +7,7 @@
 
 <img style="margin: 0 auto" src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" height="200">
 
-- 👨‍💻 I’m Integration Developer at <a target="_blank" href="https://best2bee.com.br/">Best2bee</a>
+- 👨‍💻 I’m Java Back-end Developer Analyst at <a target="_blank" href="https://navita.com.br/">Navita</a>
 - 📚 I’m College Student at <a target="_blank" href="https://www.unopar.com.br/">Unopar</a>
 - 😍 I’m passionate about technology
 
