@@ -10,8 +10,3 @@
 - 👨‍💻 I’m Java Back-end Developer Analyst at <a target="_blank" href="https://navita.com.br/">Navita</a>
 - 📚 I’m College Student at <a target="_blank" href="https://www.unopar.com.br/">Unopar</a>
 - 😍 I’m passionate about technology
-
-### About
-
-![Edufreitass stats](https://github-readme-stats.codestackr.vercel.app/api?username=Edufreitass&show_icons=true&theme=radical&hide_border=true)
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edufreitass&layout=compact)](https://github.com/Edufreitass/github-readme-stats) -->
