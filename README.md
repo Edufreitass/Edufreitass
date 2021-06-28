@@ -1,6 +1,6 @@
-![](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
+![](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg) 
 
-# Eduardo Freitas
+# Eduardo Freitas :point_right: <img src="https://komarev.com/ghpvc/?username=Edufreitass" alt="Edufreitass" />
 
 [![Linkedin: Eduardo Freitas](https://img.shields.io/badge/-Eduardo%20Freitas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-freitas-48b7bb19b/)](https://www.linkedin.com/in/eduardo-freitas-48b7bb19b/)
 [![28929274](https://img.shields.io/badge/-Rocketseat-blueviolet?style=flat-square)](https://app.rocketseat.com.br/me/eduardo-freitas-02714)
