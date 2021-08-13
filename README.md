@@ -11,7 +11,7 @@
 <img style="margin: 0 auto" src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" height="200">
 
 - 👨‍💻 I’m Java Back-end Developer Analyst at <a target="_blank" href="https://navita.com.br/">Navita</a>
-- 🔨 I'm building things with Java, Spring Framework, RabbitMQ, PostgreSQL and other tecnologies.
+- 🔨 I'm building things with Java, Spring Framework, JUnit, Mockito, RabbitMQ, PostgreSQL and other tecnologies.
 - 📚 I’m College Student at <a target="_blank" href="https://www.unopar.com.br/">Unopar</a>
 - 😍 I’m passionate about technology
 
