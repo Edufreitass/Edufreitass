@@ -13,7 +13,7 @@
 
 - 👨🏻‍💻 I’m Java Back-end Developer at <a target="_blank" href="https://navita.com.br/">Navita</a>
 - 🔨 I'm building things with Java, Spring Framework, JUnit, Mockito, RabbitMQ, PostgreSQL and other tecnologies.
-- 🎓 I’m college student at <a target="_blank" href="https://www.unopar.com.br/">Unopar</a>
+- 🎓 Graduated in Systems Analysis and Development
 - 📝 I'm currently learning English at [Brasas English Course](https://www.brasas.com/welcome)
 - 😍 I’m passionate about technology
 - 🚀 Never stop learning!
