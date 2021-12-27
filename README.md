@@ -16,7 +16,6 @@
 - 🎓 Graduated in Systems Analysis and Development
 - 📝 I'm currently learning English at [Brasas English Course](https://www.brasas.com/welcome)
 - 😍 I’m passionate about technology
-- 🎅🏻 Merry Christmas
 - 🚀 Never stop learning!
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Edufreitass&theme=dark&hide_border=true)](https://git.io/streak-stats) -->
