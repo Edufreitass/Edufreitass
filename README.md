@@ -20,11 +20,11 @@
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Edufreitass&theme=dark&hide_border=true)](https://git.io/streak-stats) -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=Edufreitass&theme=dark&hide_border=true" />
   </a>
-</p>
+</p> -->
 
 ### I currently work with..
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
