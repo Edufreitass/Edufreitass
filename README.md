@@ -11,7 +11,7 @@
 
 <img style="margin: 0 auto" src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" height="200">
 
-- 👨🏻‍💻 I’m Java Back-end Developer at <a target="_blank" href="https://navita.com.br/">Navita</a>
+- 👨🏻‍💻 I’m CSS Systems Specialist at <a target="_blank" href="https://www.nttdata.com/global/en/">NTT DATA</a>
 - 🔨 I'm building things with Java, Spring Framework, JUnit, Mockito, RabbitMQ, PostgreSQL and other tecnologies.
 - 🎓 Graduated in Systems Analysis and Development
 - 📝 I'm currently learning English at [Brasas English Course](https://www.brasas.com/welcome)
