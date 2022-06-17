@@ -7,12 +7,12 @@
 [![28929274](https://img.shields.io/badge/-Rocketseat-blueviolet?style=flat-square)](https://app.rocketseat.com.br/me/eduardo-freitas-02714)
 [![GitHub Eduardo](https://img.shields.io/github/followers/Edufreitass?label=follow&style=social)](https://github.com/Edufreitass)
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello! Welcome to my profile
+### Hello! Welcome to my profile
 
 <img style="margin: 0 auto" src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" height="200">
 
 - 👨🏻‍💻 I’m CSS - Centers Senior Specialist at <a target="_blank" href="https://www.nttdata.com/global/en/">NTT DATA</a>
-- 🔨 I'm building things with Java and other tecnologies.
+- 🔨 I'm building things with Java, Python, AWS and other tecnologies.
 - 🎓 Graduated in Systems Analysis and Development
 - 📝 I'm currently learning English at [Brasas English Course](https://www.brasas.com/welcome)
 - 😍 I’m passionate about technology
