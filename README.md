@@ -9,6 +9,8 @@
 
 ### Hello! Welcome to my profile
 
+#### First of all, remind: "Software development is a continuous journey of learning, and you can't use the difficulty of learning new things as an excuse to use a new thing poorly." (DeBrie, Alex)
+
 <img style="margin: 0 auto" src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" height="200">
 
 - 👨🏻‍💻 I’m CSS - Centers Senior Specialist at <a target="_blank" href="https://www.nttdata.com/global/en/">NTT DATA</a>
