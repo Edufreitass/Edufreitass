@@ -14,7 +14,7 @@
 <img style="margin: 0 auto" src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" height="200">
 
 - 👨🏻‍💻 I’m CSS - Centers Senior Specialist at <a target="_blank" href="https://www.nttdata.com/global/en/">NTT DATA</a>
-- 🔨 I'm building things with Java, Python, AWS and other tecnologies.
+- 🔨 I'm building things with Python, AWS and other tecnologies.
 - 🎓 Graduated in Systems Analysis and Development
 - 📝 I'm currently learning English at [Brasas English Course](https://www.brasas.com/welcome)
 - 😍 I’m passionate about technology
