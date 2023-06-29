@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
 
 [![Linkedin: Eduardo Freitas](https://img.shields.io/badge/-Eduardo%20Freitas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardoffreitas/)](https://www.linkedin.com/in/eduardoffreitas/)
-<!--- [![28929274](https://img.shields.io/badge/-Rocketseat-blueviolet?style=flat-square)](https://app.rocketseat.com.br/me/eduardo-freitas-02714)-->
+<!-- [![28929274](https://img.shields.io/badge/-Rocketseat-blueviolet?style=flat-square)](https://app.rocketseat.com.br/me/eduardo-freitas-02714)-->
 [![GitHub Eduardo](https://img.shields.io/github/followers/Edufreitass?label=follow&style=social)](https://github.com/Edufreitass)
 
 ### Hello! Welcome to my profile
@@ -20,11 +20,11 @@
 - 😍 I’m passionate about technology
 - 🚀 Never stop learning!
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=Edufreitass&theme=dark&hide_border=true" />
   </a>
-</p>
+</p> -->
 
 ### I currently work with..
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
