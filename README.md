@@ -1,6 +1,9 @@
 ![](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg) 
 
 # Eduardo Freitas
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="fd0503af-b2ca-4fdc-a116-9fb13484027f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
 
 [![Linkedin: Eduardo Freitas](https://img.shields.io/badge/-Eduardo%20Freitas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardoffreitas/)](https://www.linkedin.com/in/eduardoffreitas/)
