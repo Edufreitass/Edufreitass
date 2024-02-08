@@ -14,9 +14,10 @@
 
 <img style="margin: 0 auto" src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" height="200">
 
-- 👨🏻‍💻 I’m CSS - Centers Senior Specialist at <a target="_blank" href="https://www.nttdata.com/global/en/">NTT DATA</a>
+- 👨🏻‍💻 I’m Senior Technical Specialist at <a target="_blank" href="https://www.nttdata.com/global/en/">NTT DATA</a>
 - 🔨 I'm building things with Python, AWS and other tecnologies.
 - 🎓 Graduated in Systems Analysis and Development
+- ☁️ 1x AWS Certified (Practitioner)
 - 📝 I'm currently learning English at [Brasas English Course](https://www.brasas.com/welcome)
 - 😍 I’m passionate about technology
 - 🚀 Never stop learning!
@@ -112,5 +113,3 @@
 ![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![](https://img.shields.io/badge/travis_CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white)
 ![](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white)
-
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
