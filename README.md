@@ -14,7 +14,7 @@
 
 <img style="margin: 0 auto" src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" height="200">
 
-- 👨🏻‍💻 I’m Senior Technical Specialist at <a target="_blank" href="https://www.nttdata.com/global/en/">NTT DATA</a>
+- 👨🏻‍💻 I’m Tech Lead Senior Software Engineer at <a target="_blank" href="https://iga.itau.com.br">IGA - Itaú Gestão de Ativos</a>
 - 🔨 I'm building things with Python, AWS and other tecnologies.
 - 🎓 Graduated in Systems Analysis and Development
 - ☁️ 1x AWS Certified (Practitioner)
