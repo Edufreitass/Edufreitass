@@ -17,7 +17,7 @@
 - 👨🏻‍💻 I’m Tech Lead | Senior Software Engineer at <a target="_blank" href="https://iga.itau.com.br">IGA - Itaú Gestão de Ativos</a>
 - 🔨 I'm building things with Python, AWS and other tecnologies.
 - 🎓 Graduated in Systems Analysis and Development
-- ☁️ 1x AWS Certified (Practitioner)
+- ☁️ 2x AWS Certified (Practitioner, Solutions Architect - Associate)
 - 😍 I’m passionate about technology
 - 🚀 Never stop learning!
 
